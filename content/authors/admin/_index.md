@@ -24,7 +24,7 @@ role: Ph.D.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: NJUST
     url: https://openai.com/
 
 # Social network links
