@@ -3,7 +3,7 @@
 title: 瞿超
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chao Qu
 
 # Full name (for SEO)
 first_name: Chao
