@@ -183,4 +183,4 @@ awards:
 
 ## Biography
 
-My name is Chao Qu, and I am a master's-to-doctoral student at Nanjing University of Science and Technology, with an expected doctorate graduation in 2026.
+I received the B.E degree in Electronic Science and Technology from the Nanjing University of Science and Technology in 2019, where he is currently pursuing the Ph.D. degree with the School of Electronic and Optical Engineering. My research interests include image and video processing, computational photography.
