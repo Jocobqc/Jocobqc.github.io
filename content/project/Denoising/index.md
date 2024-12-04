@@ -1,5 +1,5 @@
 ---
-title: 01 Image Denoising and Destriping
+title: Image Denoising and Destriping
 date: 2024-09-26
 # external_link: https://github.com/scikit-learn/scikit-learn
 tags:

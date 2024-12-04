@@ -1,5 +1,5 @@
 ---
-title: 02 Characteristic Modeling 
+title: Characteristic Modeling 
 date: 2023-03-02
 # external_link: https://github.com/pytorch/pytorch
 tags:
