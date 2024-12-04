@@ -1,9 +1,9 @@
 ---
 title: Infrared and Visible Image Fusion 
-date: 2023-10-26
+date: 2022-06-05
 # external_link: https://github.com/pytorch/pytorch
-# tags:
-#   - Hugo
+tags:
+  - Low-light Imaging
 #   - Wowchemy
 #   - Markdown
 ---

@@ -1,6 +1,6 @@
 ---
 title: Object Detection
-date: 2023-10-26
+date: 2021-08-16
 # external_link: https://github.com/pandas-dev/pandas
 tags:
   - YOLO
