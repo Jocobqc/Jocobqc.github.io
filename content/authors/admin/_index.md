@@ -74,7 +74,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng in Electronic Science and Technology,2015-2019
+  - area: BEng in Electronic Science and Technology, 2015-2019
     institution: Nanjing University of Science and Technology
     date_start: 2019-06-01
     date_end: 2015-09-01
