@@ -1,7 +1,7 @@
 ---
 title: Infrared and Visible Image Fusion 
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+# external_link: https://github.com/pytorch/pytorch
 # tags:
 #   - Hugo
 #   - Wowchemy
