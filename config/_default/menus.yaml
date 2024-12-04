@@ -22,7 +22,7 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Systems
+  - name: Optical Systems
     url: systems/
     weight: 40    
   # - name: Teaching
