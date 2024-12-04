@@ -56,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Manuscripts
       text: ""
       filters:
         folders:
