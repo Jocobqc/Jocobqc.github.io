@@ -1,9 +1,9 @@
 ---
 title: Image Denoising and Destriping
-date: 2023-10-26
+date: 2024-09-26
 # external_link: https://github.com/scikit-learn/scikit-learn
-# tags:
-#   - Hugo
+tags:
+  - Self-supervised Learning
 #   - Wowchemy
 #   - Markdown
 ---
