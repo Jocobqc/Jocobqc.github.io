@@ -33,6 +33,8 @@ profiles:
   - icon: envelope
     url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Jocobqc    
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
