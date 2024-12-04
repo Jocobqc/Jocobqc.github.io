@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
   - degradation modeling
   - super-resolution
-featured: false
+featured: true
 
 # links:
 # - name: ""
