@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 瞿超
+title: Chao Qu
 
 # # Name pronunciation (optional)
 # name_pronunciation: Chao Qu
@@ -24,8 +24,8 @@ role: Ph.D.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: NJUST
-    url: https://openai.com/
+  - name: The Nanjing University of Science and Technology (NJUST)
+    url: https://www.njust.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Infrared Imaging
+  - Computational imaging
+  - Neuromorphic Imaging
 
 education:
   - area: PhD Artificial Intelligence
