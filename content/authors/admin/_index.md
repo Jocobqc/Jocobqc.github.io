@@ -52,7 +52,7 @@ interests:
   - Neuromorphic Imaging
 
 education:
-  - area: PhD Optical Engineering
+  - area: MEng & PhD in Optical Engineering, 2020-Present
     institution: Nanjing University of Science and Technology
     date_start: 2026-06-01
     date_end: 2022-09-01
@@ -72,7 +72,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electronic Science and Technology
+  - area: BEng in Electronic Science and Technology,2015-2019
     institution: Nanjing University of Science and Technology
     date_start: 2019-06-01
     date_end: 2015-09-01
