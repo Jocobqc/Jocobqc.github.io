@@ -29,7 +29,7 @@ summary: We propose a self-supervised image denoising and destriping method base
 tags:
   - destriping
   - denoising
-featured: false
+featured: true
 
 # links:
 # - name: ""
