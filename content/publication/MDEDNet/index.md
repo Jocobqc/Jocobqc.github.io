@@ -5,16 +5,16 @@ authors:
 author_notes:
 - ""
 - ""
-date: "2024-01-16T00:00:00Z"
-doi: "10.3390/e26030209"
+date: ""
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-27T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "CVPR 2025 [Submitted]"
