@@ -8,6 +8,6 @@ tags:
 #   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+A self-supervised image denoising and destriping framework based on blind-spot regularization. The framework transforms the overall denoising and destriping problem into a modeling task for two spatially correlated signals: image and stripe.
 
 <!--more-->
