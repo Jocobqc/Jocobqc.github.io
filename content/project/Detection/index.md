@@ -1,5 +1,5 @@
 ---
-title: Infrared Target Detection
+title: Target Detection
 date: 2023-10-26
 external_link: https://github.com/pandas-dev/pandas
 tags:
