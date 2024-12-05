@@ -3,11 +3,11 @@ title: Infrared and Visible Image Fusion
 date: 2022-06-05
 # external_link: https://github.com/pytorch/pytorch
 tags:
-  - Low-light Imaging
+  - Multi-sensor Fusion Imaging
 #   - Wowchemy
 #   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Through adversarial semantic guidance technology, a controllable infrared and visible light image fusion method for salient targets is constructed.
 
 <!--more-->
