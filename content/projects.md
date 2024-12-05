@@ -19,17 +19,5 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 2
-
-  - block: collection
-    content:
-      title: Systems
-      text: I have rich experience in building optical systems and multi-load platforms, and I like these.
-      filters:
-        folders:
-          - system
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 2      
+      columns: 2    
 ---
