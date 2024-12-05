@@ -8,6 +8,6 @@ tags:
 #   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+To address the challenges faced in paired data collection, we propose a modeling method for infrared characteristics, aimed at simulating the degradation from high-quality infrared images to low-quality infrared images.
 
 <!--more-->
