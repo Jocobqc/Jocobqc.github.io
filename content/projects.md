@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: The projects I am involved in mainly involve infrared characteristic modeling, infrared enhancement and multi-modal fusion.
       filters:
         folders:
           - project
@@ -23,8 +23,8 @@ sections:
 
   - block: collection
     content:
-      title: Selected Systems
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Systems
+      text: I have rich experience in building optical systems and multi-load platforms, and I like these.
       filters:
         folders:
           - system
