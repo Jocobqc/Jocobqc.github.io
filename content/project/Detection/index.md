@@ -7,6 +7,6 @@ tags:
   - multi-scale
 ---
 
-Deployment of deep models on edge computing platforms, such as NVIDIA Jetson and HUAWEI HiSilicon.
+The deployment and optimization of deep models on edge computing platforms aim to achieve real-time and robust infrared target detection.
 
 <!--more-->
