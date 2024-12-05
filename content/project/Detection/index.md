@@ -7,6 +7,6 @@ tags:
   - multi-scale
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Deployment of deep models on edge computing platforms, such as NVIDIA Jetson and HUAWEI HiSilicon.
 
 <!--more-->
