@@ -8,6 +8,6 @@ date: 2022-04-19
 #   - Markdown
 ---
 
-A self-supervised image denoising and destriping framework based on blind-spot regularization. The framework transforms the overall denoising and destriping problem into a modeling task for two spatially correlated signals: image and stripe.
+The system consists of a co-axial imaging device (including a visible camera, an infrared camera, and a dichroic mirror) and an edge computing platform (such as NVIDIA Jetson or HUAWEI HiSilicon).
 
 <!--more-->
