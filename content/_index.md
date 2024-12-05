@@ -66,6 +66,7 @@ sections:
       view: citation
 
   - block: collection
+    id: Projects
     content:
       title: Projects
       text: The project I participated in as a core member involves infrared characteristic modeling, infrared enhancement, multi-modal fusion, and object detection.
@@ -78,6 +79,7 @@ sections:
       columns: 2
 
   - block: collection
+    id: Systems
     content:
       title: Systems
       text: I have rich experience in the construction of optical systems and multi-payload platforms, and I enjoy these.
