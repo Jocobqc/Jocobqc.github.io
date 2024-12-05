@@ -3,7 +3,7 @@ title: Characteristic Modeling
 date: 2023-03-02
 # external_link: https://github.com/pytorch/pytorch
 tags:
-  - Unsupervised Learning
+  - Target and sensor characteristics
 #   - Wowchemy
 #   - Markdown
 ---
