@@ -24,7 +24,7 @@ sections:
   - block: collection
     content:
       title: Systems
-      text: I have rich experience in building optical systems and multi-load platforms, and I like these.
+      text: I have rich experience in the construction of optical systems and multi-payload platforms, and I enjoy these.
       filters:
         folders:
           - system
