@@ -20,4 +20,16 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
+
+  - block: collection
+    content:
+      title: Selected Systems
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      filters:
+        folders:
+          - system
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 2      
 ---
