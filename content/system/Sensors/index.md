@@ -8,6 +8,6 @@ date: 2022-04-19
 #   - Markdown
 ---
 
-The system consists of a co-axial imaging device (including a visible camera, an infrared camera, and a dichroic mirror) and an edge computing platform (such as NVIDIA Jetson or HUAWEI HiSilicon).
+The system consists of a co-axial imaging device (including a visible camera, an infrared camera, and a dichroic mirror) and an edge computing platform (such as NVIDIA Jetson or HUAWEI HiSilicon). The hardware features a simple and compact design, making it suitable for deployment in vehicle-mounted scenarios. It enables imaging and perception under all-weather conditions.
 
 <!--more-->
