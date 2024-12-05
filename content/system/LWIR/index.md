@@ -1,6 +1,6 @@
 ---
 title: Co-axial imaging system of long-wave infrared and visible light
-date: 2024-09-26
+date: 2022-04-19
 # external_link: https://github.com/scikit-learn/scikit-learn
 # tags:
 #   - Self-supervised Learning
