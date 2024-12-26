@@ -29,8 +29,8 @@ summary: XXX.
 tags:
   - deblurring
   - denoising
-featured: true
-
+featured: false
+featured1: true
 # links:
 # - name: ""
 #   url: ""
