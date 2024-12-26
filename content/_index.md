@@ -62,6 +62,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+        featured1_only: true
     design:
       view: citation
 

@@ -30,7 +30,7 @@ tags:
   - destriping
   - denoising
 featured: true
-
+featured1: true
 # links:
 # - name: ""
 #   url: ""
