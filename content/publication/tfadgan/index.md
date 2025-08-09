@@ -32,7 +32,7 @@ tags:
   - infrared degradation modeling
   - super-resolution
 featured: true
-featured1: true
+featured1: false
 # links:
 # - name: ""
 #   url: ""
