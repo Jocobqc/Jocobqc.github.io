@@ -1,0 +1,43 @@
+<!-- layouts/partials/hooks/head-end/override-abstract.html -->
+<style>
+/* 目标：让“Abstract / bio / intro”类文本区横向占满页面（桌面为主） */
+/* 基本覆盖：根据主题的常见类名做覆盖（如果你的页面使用了其它类，下面会给调试方法） */
+
+@media (min-width: 992px) {
+  /* 常见的文本块/卡片类（HugoBlox 模板常见结构） */
+  .blox--block.blox--text,
+  .blox--text,
+  .author-bio,
+  .profile-bio,
+  .introduction,
+  .home-intro,
+  .hero__content,
+  .lead {
+    max-width: none !important;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 1rem !important;   /* 适度内边距保持可读性 */
+    padding-right: 1rem !important;
+  }
+
+  /* 如果主题把页面本身放在 .container 或 .max-w-xl 之类的容器里，
+     也可以放宽这些容器的最大宽度（按需启用） */
+  .container,
+  .page-container,
+  .max-w-prose,
+  .max-w-xl {
+    max-width: 1200px !important; /* 根据你想要的最大宽度调整 */
+    width: 100% !important;
+  }
+}
+
+/* 小屏幕仍保持默认响应式 */
+@media (max-width: 991px) {
+  .blox--block.blox--text,
+  .blox--text {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+</style>
