@@ -9,11 +9,11 @@ authors:
 author_notes:
 - ""
 - ""
-date: "2025-04-09"
+date: "2025-04-09T00:00:00Z"
 doi: "10.1109/TCSVT.2025.3559214"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-09"
+publishDate: "2025-04-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

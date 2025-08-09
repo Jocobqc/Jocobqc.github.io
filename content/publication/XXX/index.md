@@ -1,5 +1,5 @@
 ---
-title: "XXXXXX"
+title: "Near-Infrared Image Deblurring and Event Denoising with Synergistic Neuromorphic Imaging"
 authors:
 - Chao Qu
 
@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CVPR 2025 [Submitted]"
+publication: ""
 publication_short: ""
 
 abstract: XXX.
