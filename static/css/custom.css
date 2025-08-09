@@ -1,33 +1,36 @@
-/* static/css/custom.css
-   覆盖页面正文和 Abstract 的窄列限制，使正文在大屏上更宽 */
+/* static/css/custom.css — 用于放宽正文/Abstract 行宽 */
 article, .post, .page, .page-content, .entry-content, .content {
   box-sizing: border-box;
 }
 
-/* 让正文行宽在桌面上更宽（可读性优先用 ch 单位）*/
-article .entry-content, .post .entry-content, .page .entry-content, .content {
-  max-width: 65ch;              /* 每行约 65 字符，推荐 */
-  width: calc(100% - 48px);     /* 留左右内边距 */
+article .entry-content,
+.post .entry-content,
+.page .entry-content,
+.content {
+  max-width: 65ch;
+  width: calc(100% - 48px);
   margin-left: auto;
   margin-right: auto;
   padding-left: 24px;
   padding-right: 24px;
 }
 
-/* 如果你希望更宽一些（更接近整页），在大屏幕放宽上限 */
 @media (min-width: 1200px) {
-  article .entry-content, .post .entry-content, .page .entry-content, .content {
+  article .entry-content,
+  .post .entry-content,
+  .page .entry-content,
+  .content {
     max-width: 1100px;
   }
 }
 
-/* 如果主题对 Abstract 使用了单独 class（保险写法） */
+/* 针对可能使用的 .abstract class 的保险写法 */
 .abstract, .post .abstract, .entry-content .abstract, article .abstract {
   max-width: none;
   width: 100%;
 }
 
-/* 如果主题有很强的限制（最后手段） */
+/* 最后手段（谨慎使用） */
 article .entry-content, .post .entry-content {
   max-width: 1100px !important;
 }
