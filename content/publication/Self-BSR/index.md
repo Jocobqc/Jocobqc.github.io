@@ -1,5 +1,5 @@
 ---
-title: "Self-BSR: Self-supervised Image Denoising and Destriping Based on Blind-Spot Regularization"
+title: "Self-BSR Self-supervised Image Denoising and Destriping Based on Blind-Spot Regularization"
 authors:
 - Chao Qu
 - Zewei Chen

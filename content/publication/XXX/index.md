@@ -2,12 +2,17 @@
 title: "Near-Infrared Image Deblurring and Event Denoising with Synergistic Neuromorphic Imaging"
 authors:
 - Chao Qu
-
+- Shuo Zhu
+- Yuhang Wang
+- Zongze Wu
+- Xiaoyu Chen
+- Edmund Y. Lam
+- Jing Han
 author_notes:
 - ""
 - ""
-date: "2024-11-15T00:00:00Z"
-doi: ""
+date: "2025-05-03T00:00:00Z"
+doi: "arXiv:2503.01193"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,10 +23,10 @@ publishDate: ""
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "arXiv"
+publication_short: "arXiv"
 
-abstract: XXX.
+abstract: The fields of imaging in the nighttime dynamic and other extremely dark conditions have seen impressive and transformative advancements in recent years, partly driven by the rise of novel sensing approaches, e.g., near-infrared (NIR) cameras with high sensitivity and event cameras with minimal blur. However, inappropriate exposure ratios of near-infrared cameras make them susceptible to distortion and blur. Event cameras are also highly sensitive to weak signals at night yet prone to interference, often generating substantial noise and significantly degrading observations and analysis. Herein, we develop a new framework for low-light imaging combined with NIR imaging and event-based techniques, named synergistic neuromorphic imaging, which can jointly achieve NIR image deblurring and event denoising. Harnessing cross-modal features of NIR images and visible events via spectral consistency and higherorder interaction, the NIR images and events are simultaneously fused, enhanced, and bootstrapped. Experiments on real and realistically simulated sequences demonstrate the effectiveness of our method and indicate better accuracy and robustness than other methods in practical scenarios. This study gives impetus to enhance both NIR images and events, which paves the way for high-fidelity low-light imaging and neuromorphic reasoning.
 
 # Summary. An optional shortened abstract.
 summary: XXX.
@@ -34,7 +39,7 @@ featured1: true
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://www.mdpi.com/1099-4300/26/3/209
+url_pdf: https://arxiv.org/pdf/2503.01193
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
