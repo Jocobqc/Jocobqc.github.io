@@ -32,8 +32,8 @@ abstract: "The fields of imaging in the nighttime dynamic and other extremely da
 summary: "We develop a new framework for low-light imaging combined with NIR imaging and event-based techniques, named synergistic neuromorphic imaging, which can jointly achieve NIR image deblurring and event denoising."
 
 tags:
-  - NIR deblurring
-  - Event denoising
+  - nir deblurring
+  - event denoising
 featured: false
 featured1: true
 # links:
