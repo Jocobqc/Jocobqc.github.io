@@ -24,14 +24,14 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The Nanjing University of Science and Technology (NJUST)
+  - name: Nanjing University of Science and Technology (NJUST)
     url: https://www.njust.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:chao.qu@njust.edu.cn'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Jocobqc    
@@ -50,9 +50,8 @@ profiles:
 
 interests:
   - Infrared Imaging
-  - Computational imaging
   - Neuromorphic Imaging
-
+  - Computational imaging
 education:
   - area: MEng & PhD in Optical Engineering, 2020-Present
     institution: Nanjing University of Science and Technology
