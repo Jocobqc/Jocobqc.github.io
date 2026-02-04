@@ -56,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Manuscripts
+      title: Recent Publications
       text: ""
       filters:
         folders:
@@ -70,7 +70,7 @@ sections:
     id: projects
     content:
       title: Projects
-      text: The project I participated in as a core member involves infrared characteristic modeling, infrared enhancement, multi-modal fusion, and object detection.
+      text: The projects I participated in as a core member involve infrared characteristic modeling, infrared enhancement, multi-modal fusion, and object detection.
       filters:
         folders:
           - project
@@ -83,7 +83,7 @@ sections:
     id: systems
     content:
       title: Systems
-      text: I have rich experience in the construction of optical systems and multi-payload platforms, and I enjoy these.
+      text: I possess extensive expertise in constructing optical systems and multi-payload platforms, with a strong passion for hardware integration and system-level optimization.
       filters:
         folders:
           - system
