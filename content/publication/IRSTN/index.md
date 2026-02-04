@@ -36,7 +36,7 @@ featured1: true
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://www.mdpi.com/1099-4300/26/3/209
+url_pdf: https://opg.optica.org/directpdfaccess/652e59de-b000-4e2e-887907adf8578c1b_588233/oe-34-3-4949.pdf?da=1&id=588233&seq=0&mobile=no
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
