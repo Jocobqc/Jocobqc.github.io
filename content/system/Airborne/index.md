@@ -4,6 +4,6 @@ date: 2021-08-16
 # external_link: https://github.com/pandas-dev/pandas
 ---
 
-The optical system is integrated with the airborne platform, enabling multispectral target detection and tracking. This has significant implications for applications such as environmental monitoring and power grid inspection.
+Integrated into an airborne platform, this optical system facilitates multispectral target detection and tracking. It holds significant potential for critical applications, including wide-area environmental monitoring and autonomous power grid inspection.
 
 <!--more-->
