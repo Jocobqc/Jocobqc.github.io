@@ -30,8 +30,8 @@ abstract: "Digital images captured by unstable imaging systems often simultaneou
 summary: "We propose Self-BSR, a self-supervised image denoising and destriping method based on blind-spot regularization. This approach reformulates the overall denoising and destriping problem as a modeling task involving two spatially correlated signals: the image and the stripe."
 
 tags:
-  - destriping
-  - denoising
+  - Denoising and destriping
+  - Self-supervised
 featured: true
 featured1: true
 # links:
