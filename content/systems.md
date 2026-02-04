@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Systems
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I possess extensive expertise in constructing optical systems and multi-payload platforms, with a strong passion for hardware integration and system-level optimization.
       filters:
         folders:
           - system
