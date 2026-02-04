@@ -2,7 +2,9 @@
 title: "Prior-Guided Infrared Spatiotemporal Noise Modeling Based on Hybrid Neural Representation"
 authors:
 - Chao Qu
-
+- Jing Han
+- Haotian Yu
+- Xiaoyu Chen
 author_notes:
 - ""
 - ""
