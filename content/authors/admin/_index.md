@@ -184,4 +184,4 @@ awards:
 ---
 
 ## Biography
-I received the B.E degree in Electronic Science and Technology from the Nanjing University of Science and Technology in 2019. I am currently pursuing the Ph.D. degree with the School of Electronic and Optical Engineering. My current research interests include computer vision, neuromorphic imaging, infrared imaging, and computational imaging.
+I received my B.E. degree in Electronic Science and Technology from Nanjing University of Science and Technology (NJUST) in 2019. Currently, I am a Ph.D. candidate at the School of Electronic and Optical Engineering, NJUST. My research interests primarily focus on computer vision, neuromorphic imaging, infrared imaging, and computational imaging.
