@@ -31,7 +31,7 @@ summary: To enhance the SR performance for real-world thermal images, we propose
 tags:
   - infrared degradation modeling
   - super-resolution
-featured: true
+featured: false
 featured1: true
 # links:
 # - name: ""
