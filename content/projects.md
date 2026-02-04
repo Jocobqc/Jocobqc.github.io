@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: The project I participated in as a core member involves infrared characteristic modeling, infrared enhancement, and multi-modal fusion.
+      text: As a core team member, I have been actively involved in research projects spanning infrared characteristic modeling, infrared image enhancement, multi-modal fusion, and object detection.
       filters:
         folders:
           - project
