@@ -31,7 +31,7 @@ summary: We propose an infrared spatiotemporal noise modeling framework (IRSTN) 
 tags:
   - noise modeling
   - video denoising
-featured: false
+featured: true
 featured1: true
 # links:
 # - name: ""
